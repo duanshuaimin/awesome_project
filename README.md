@@ -1,17 +1,17 @@
-知名公司Github主页
+Github Knowledge Base
 ====
-## google https://github.com/google
+## Google https://github.com/google
 
-## facebook https://github.com/facebook
+## Facebook https://github.com/facebook
 
-## microsoft https://github.com/microsoft
+## Microsoft https://github.com/microsoft
 
-## twitter https://github.com/twitter
+## Twitter https://github.com/twitter
 
-## uber https://github.com/uber
+## Uber https://github.com/uber
 
-## vmware https://github.com/vmware
+## Vmware https://github.com/vmware
 
-## airbnb https://github.com/airbnb
+## Airbnb https://github.com/airbnb
 
-## hashicorp https://github.com/hashicorp
+## Hashicorp https://github.com/hashicorp
