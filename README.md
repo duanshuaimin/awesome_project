@@ -12,3 +12,5 @@
 ## vmware https://github.com/vmware
 
 ## airbnb https://github.com/airbnb
+
+## hashicorp https://github.com/hashicorp
